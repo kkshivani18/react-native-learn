@@ -1,4 +1,6 @@
-## React Native Commands  
+## React Native Notes  
+
+### React Native Installation commands  
 
 ```bash
    npx create-expo-app@latest
