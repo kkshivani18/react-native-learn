@@ -139,8 +139,9 @@ blank@sdk-52
 
 ### Custom Components
 
-### Styling 
+### Styling  
 - Doesn't use CSS, uses JS. Names written in camel case.
+
    **StyleSheet API**
    - 
 
