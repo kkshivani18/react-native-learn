@@ -142,13 +142,13 @@ blank@sdk-52
 ### Styling  
 - Doesn't use CSS, uses JS. Names written in camel case.
 
-   **StyleSheet API**
+   #### **StyleSheet API**
    - 
 
-   **Multiple Styles**
+   #### **Multiple Styles**
    - 
 
-   **Box Model**
+   #### **Box Model**
    - 
    ![box model](<./images/box_model.png>)
 
